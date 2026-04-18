@@ -64,7 +64,7 @@ export function PhoneMockup() {
           <div className="px-6 pt-6 pb-4">
             <div className="flex items-center gap-2 mb-6">
               <img src="/globypay-logo.png" alt="Globypay Logo" className="h-6 w-auto object-contain drop-shadow-sm" />
-              <span className="font-bold tracking-tight text-slate-900 text-sm">Globypay</span>
+              <span className="font-bold tracking-tight text-slate-900 text-sm">GlobyPay</span>
             </div>
           </div>
 
