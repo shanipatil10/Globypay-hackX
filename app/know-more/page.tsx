@@ -17,7 +17,7 @@ export default function KnowMorePage() {
 
   const lineVariants: Variants = {
     hidden: { height: 0 },
-    visible: { height: "100%", transition: { duration: 1.5, ease: "easeInOut" } }
+    visible: { height: "100%", transition: { duration: 1.5, ease: "easeInOut" as const } }
   };
 
   return (
